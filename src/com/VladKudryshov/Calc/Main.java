@@ -13,6 +13,7 @@ import java.util.Objects;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Enter math expression(example:(2+3)^2)");
+	System.out.println();
         System.out.println("You can use these symbols: '+' '-' '/' '*' '^' '(' ')'");
         System.out.println("Enter Q to quit the application");
         while (true) {
